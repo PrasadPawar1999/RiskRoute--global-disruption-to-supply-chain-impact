@@ -1,0 +1,14 @@
+route_id,route_name,transport_mode,origin_node_id,destination_node_id,typical_transit_days
+R_SHA_GDN_SUEZ,Shanghai → Gdansk via Suez,sea,PORT_SHA,FAC_WAW,33
+R_SHA_GDN_CAPE,Shanghai → Gdansk via Cape of Good Hope,sea,PORT_SHA,FAC_WAW,44
+R_SZX_RTM_SUEZ,Shenzhen → Rotterdam via Suez,sea,PORT_SZX,FAC_WAW,29
+R_KHH_HAM_SUEZ,Kaohsiung → Hamburg via Suez,sea,PORT_KHH,FAC_WAW,28
+R_PEN_GDN_SUEZ,Penang → Gdansk via Suez,sea,PORT_PEN,FAC_WAW,25
+R_BUS_HAM_SUEZ,Busan → Hamburg via Suez,sea,PORT_BUS,FAC_WAW,31
+R_IST_GDN,Istanbul → Gdansk via Gibraltar,sea,PORT_IST,FAC_WAW,15
+R_ALT_HAM,Altamira → Hamburg (Atlantic),sea,PORT_ALT,FAC_WAW,18
+R_XIAN_WAW_RAIL,"Xi'an → Warsaw rail via Kazakhstan, Russia, Belarus",rail,RAIL_XIAN,FAC_WAW,15
+R_DEU_WAW_ROAD,Southern Germany → Warsaw road,road,HUB_DEU,FAC_WAW,2
+R_CZE_WAW_ROAD,Czechia → Warsaw road,road,HUB_CZE,FAC_WAW,1
+R_ITA_WAW_ROAD,Northern Italy → Warsaw road,road,HUB_ITA,FAC_WAW,3
+R_POL_WAW_ROAD,Domestic Poland → Warsaw road,road,HUB_POL,FAC_WAW,1

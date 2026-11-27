@@ -1,0 +1,55 @@
+material_id,material_name,category,criticality,unit,unit_cost_eur
+MAT001,MCU 32-bit Cortex-M4 (LQFP64),Microcontrollers,A,pcs,9.97
+MAT002,MCU 32-bit Cortex-M0+ (QFN32),Microcontrollers,A,pcs,2.33
+MAT003,MCU 32-bit Cortex-M7 (LQFP144),Microcontrollers,A,pcs,11.84
+MAT004,MCU 8-bit (TQFP32),Microcontrollers,A,pcs,3.7
+MAT005,Wireless SoC BLE 5.3,Microcontrollers,A,pcs,5.48
+MAT006,IGBT module 1200V 100A,Power semiconductors,A,pcs,10.13
+MAT007,MOSFET 650V 30A,Power semiconductors,A,pcs,18.29
+MAT008,Gate driver IC,Power semiconductors,A,pcs,40.48
+MAT009,DC-DC converter module 24V,Power semiconductors,A,pcs,28.53
+MAT010,LDO voltage regulator 3.3V,Power semiconductors,A,pcs,30.87
+MAT011,NOR Flash 128Mbit,Memory,A,pcs,2.04
+MAT012,DDR4 SDRAM 8Gbit,Memory,A,pcs,3.24
+MAT013,EEPROM 256Kbit,Memory,A,pcs,5.11
+MAT014,NTC temperature sensor,Sensors,B,pcs,2.28
+MAT015,Hall current sensor 50A,Sensors,B,pcs,14.74
+MAT016,Pressure sensor 10 bar,Sensors,B,pcs,4.99
+MAT017,Digital humidity sensor,Sensors,B,pcs,7.36
+MAT018,3-axis accelerometer,Sensors,B,pcs,4.69
+MAT019,Main control board PCB 6-layer,PCBs,A,pcs,18.28
+MAT020,Power board PCB 4-layer,PCBs,A,pcs,2.72
+MAT021,I/O expansion PCB 2-layer,PCBs,A,pcs,15.25
+MAT022,Display interface PCB 4-layer,PCBs,A,pcs,12.74
+MAT023,MLCC capacitor 10uF 0805,Passive components,C,pcs,0.101
+MAT024,Resistor 10k 0603,Passive components,C,pcs,0.178
+MAT025,Electrolytic capacitor 470uF,Passive components,C,pcs,0.068
+MAT026,Power inductor 22uH,Passive components,C,pcs,0.003
+MAT027,Crystal oscillator 16MHz,Passive components,C,pcs,0.233
+MAT028,TVS diode array,Passive components,C,pcs,0.025
+MAT029,Terminal block 5.08mm 4-pin,Connectors,B,pcs,5.66
+MAT030,M12 circular connector 8-pin,Connectors,B,pcs,3.46
+MAT031,RJ45 industrial jack,Connectors,B,pcs,1.7
+MAT032,Board-to-board connector 40-pin,Connectors,B,pcs,5.98
+MAT033,USB-C receptacle,Connectors,B,pcs,2.71
+MAT034,Main wiring harness assembly,Cables & harnesses,B,pcs,20.6
+MAT035,Power cable 3x2.5mm2,Cables & harnesses,B,pcs,13.9
+MAT036,Shielded Ethernet cable Cat6,Cables & harnesses,B,pcs,3.39
+MAT037,M12 sensor cable 5m,Cables & harnesses,B,pcs,12.81
+MAT038,TFT LCD 7-inch touch,Displays,B,pcs,33.07
+MAT039,TFT LCD 4.3-inch,Displays,B,pcs,45.01
+MAT040,OLED 1.3-inch module,Displays,B,pcs,23.33
+MAT041,Li-ion cell 18650,Batteries,B,pcs,4.4
+MAT042,Backup coin cell CR2032,Batteries,B,pcs,1.42
+MAT043,Aluminium enclosure 300x200,Metal enclosures,B,pcs,49.73
+MAT044,Steel DIN-rail cabinet,Metal enclosures,B,pcs,58.15
+MAT045,Extruded aluminium heat sink,Metal enclosures,B,pcs,14.0
+MAT046,ABS front panel housing,Plastic housings,C,pcs,1.68
+MAT047,Polycarbonate transparent cover,Plastic housings,C,pcs,5.56
+MAT048,Cable gland M20,Plastic housings,C,pcs,5.06
+MAT049,M4 stainless screw set,Fasteners,C,pcs,0.202
+MAT050,DIN rail clip,Fasteners,C,pcs,0.333
+MAT051,Thermal pad 1mm,Fasteners,C,pcs,0.312
+MAT052,Corrugated shipping box,Packaging,C,pcs,0.28
+MAT053,Anti-static bag 200x300,Packaging,C,pcs,0.16
+MAT054,Foam insert set,Packaging,C,pcs,1.66

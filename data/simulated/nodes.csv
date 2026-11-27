@@ -1,0 +1,29 @@
+node_id,node_name,node_type,country_code,latitude,longitude
+FAC_WAW,"Vistula Controls factory, Warsaw",factory,POL,52.2297,21.0122
+PORT_SHA,Port of Shanghai,port,CHN,31.2304,121.4737
+PORT_SZX,Port of Shenzhen (Yantian),port,CHN,22.57,114.27
+PORT_KHH,Port of Kaohsiung,port,TWN,22.61,120.28
+PORT_PEN,Port of Penang,port,MYS,5.41,100.34
+PORT_BUS,Port of Busan,port,KOR,35.1,129.04
+PORT_IST,Port of Istanbul (Ambarli),port,TUR,40.97,28.69
+PORT_ALT,Port of Altamira,port,MEX,22.48,-97.87
+PORT_GDN,Port of Gdansk,port,POL,54.4,18.67
+PORT_HAM,Port of Hamburg,port,DEU,53.54,9.97
+PORT_RTM,Port of Rotterdam,port,NLD,51.95,4.14
+CP_TAIWAN,Taiwan Strait,chokepoint,,24.0,119.5
+CP_MALACCA,Strait of Malacca,chokepoint,,2.5,101.0
+CP_BAB,Bab-el-Mandeb Strait,chokepoint,,12.6,43.3
+CP_SUEZ,Suez Canal,chokepoint,EGY,30.6,32.3
+CP_GIB,Strait of Gibraltar,chokepoint,,35.95,-5.6
+CP_CAPE,Cape of Good Hope,chokepoint,ZAF,-34.36,18.47
+CP_DOVER,Dover Strait,chokepoint,,51.0,1.5
+CP_DANISH,Danish Straits,chokepoint,DNK,55.7,12.7
+CP_DARDANELLES,Dardanelles,chokepoint,TUR,40.2,26.4
+RAIL_XIAN,Xi'an rail hub,rail_hub,CHN,34.34,108.94
+BORDER_DOSTYK,Alashankou–Dostyk border crossing,border,KAZ,45.2,82.5
+RAIL_MOSCOW,Moscow rail transit,rail_hub,RUS,55.75,37.62
+BORDER_BREST,Brest–Malaszewicze border crossing,border,BLR,52.08,23.65
+HUB_DEU,Southern Germany supplier region,rail_hub,DEU,48.78,9.18
+HUB_CZE,Czech supplier region,rail_hub,CZE,49.82,18.26
+HUB_ITA,Northern Italy supplier region,rail_hub,ITA,45.46,9.19
+HUB_POL,Domestic Polish supplier region,rail_hub,POL,52.41,16.93

@@ -1,8 +1,8 @@
-# ChainSight — AI-Assisted Supply Chain Risk Early Warning
+# RiskRoute — Global Disruption to Supply Chain Impact
 
 An AI-assisted early-warning system that connects real-world disruptions — conflicts, extreme weather, port congestion and trade restrictions — to a company's suppliers, shipments and inventory. It scores risks and simulates delays to recommend actions before shortages happen.
 
-> **Status:** 🚧 In development (Phase 1 — Setup)
+> **Status:** 🚧 In development (Phase 2 — Database)
 >
 > **Data notice:** All company data (suppliers, materials, inventory, orders, shipments) is **simulated** for a fictional Warsaw-based electronics manufacturer. External risk events come from public sources.
 
@@ -29,7 +29,7 @@ An AI-assisted early-warning system that connects real-world disruptions — con
 ## Project structure
 
 ```
-chainsight/
+RiskRoute/
 ├── data/
 │   ├── raw/          # downloaded external data (not committed)
 │   ├── processed/    # cleaned data
@@ -43,7 +43,7 @@ chainsight/
 
 ## Roadmap
 
-- [ ] Phase 1 — Setup and foundations
+- [x] Phase 1 — Setup and foundations
 - [ ] Phase 2 — Simulated company database
 - [ ] Phase 3 — External risk event collection
 - [ ] Phase 4 — Risk scoring and exposure engine
@@ -55,8 +55,8 @@ chainsight/
 ## Setup
 
 ```bash
-git clone https://github.com/<your-username>/chainsight.git
-cd chainsight
+git clone https://github.com/PrasadPawar1999/RiskRoute--global-disruption-to-supply-chain-impact.git
+cd RiskRoute--global-disruption-to-supply-chain-impact
 python -m venv venv
 venv\Scripts\activate          # Windows
 pip install -r requirements.txt

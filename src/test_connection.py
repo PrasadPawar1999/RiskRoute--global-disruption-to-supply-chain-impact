@@ -7,24 +7,14 @@ Run from the project root:
 It reads your settings from .env, creates the 'chainsight' database
 if it doesn't exist yet, and prints the MySQL version.
 """
-import os
+from sqlalchemy import text
 
-from dotenv import load_dotenv
-from sqlalchemy import create_engine, text
-
-load_dotenv()
-
-HOST = os.getenv("DB_HOST", "localhost")
-PORT = os.getenv("DB_PORT", "3306")
-USER = os.getenv("DB_USER", "root")
-PASSWORD = os.getenv("DB_PASSWORD", "")
-DB_NAME = os.getenv("DB_NAME", "chainsight")
+from db import DB_NAME, get_engine
 
 
 def main():
     # 1. Connect to the MySQL server (no database selected yet)
-    server_url = f"mysql+pymysql://{USER}:{PASSWORD}@{HOST}:{PORT}"
-    engine = create_engine(server_url)
+    engine = get_engine(with_database=False)
 
     with engine.connect() as conn:
         version = conn.execute(text("SELECT VERSION()")).scalar()
@@ -35,7 +25,7 @@ def main():
         print(f"✅ Database '{DB_NAME}' is ready")
 
     # 3. Connect to the project database itself and run a test query
-    db_engine = create_engine(f"{server_url}/{DB_NAME}")
+    db_engine = get_engine()
     with db_engine.connect() as conn:
         current = conn.execute(text("SELECT DATABASE()")).scalar()
         print(f"✅ Now using database: {current}")

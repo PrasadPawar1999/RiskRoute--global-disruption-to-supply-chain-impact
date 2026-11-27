@@ -1,0 +1,31 @@
+supplier_id,supplier_name,country,country_code,city,latitude,longitude,reliability_score
+SUP001,Shenzhen Lianfeng Electronics,China,CHN,Shenzhen,22.54,114.06,0.91
+SUP002,Shenzhen Brightpath PCB,China,CHN,Shenzhen,22.55,114.1,0.79
+SUP003,Dongguan Precision Cable,China,CHN,Dongguan,23.02,113.75,0.84
+SUP004,Shanghai Yuanda Semiconductor,China,CHN,Shanghai,31.23,121.47,0.82
+SUP005,Suzhou Kaiyue Display Tech,China,CHN,Suzhou,31.3,120.58,0.93
+SUP006,Ningbo Everpower Battery,China,CHN,Ningbo,29.87,121.54,0.92
+SUP007,Xi'an Silkline Components,China,CHN,Xi'an,34.34,108.94,0.96
+SUP008,Chengdu Western Microsystems,China,CHN,Chengdu,30.57,104.07,0.8
+SUP009,Hsinchu Formosa Microchip,Taiwan,TWN,Hsinchu,24.8,120.97,0.86
+SUP010,Taichung Jade Semiconductor,Taiwan,TWN,Taichung,24.15,120.67,0.79
+SUP011,Taoyuan Pacific Circuits,Taiwan,TWN,Taoyuan,24.99,121.3,0.82
+SUP012,Kaohsiung Harbor Electronics,Taiwan,TWN,Kaohsiung,22.63,120.3,0.88
+SUP013,Penang Straits Semiconductor,Malaysia,MYS,Penang,5.41,100.33,0.79
+SUP014,Kulim Tropic Electronics,Malaysia,MYS,Kulim,5.37,100.56,0.82
+SUP015,Busan Hanbit Display,South Korea,KOR,Busan,35.18,129.08,0.91
+SUP016,Gumi Saebyeok Memory,South Korea,KOR,Gumi,36.12,128.34,0.89
+SUP017,Bursa Marmara Kablo,Turkey,TUR,Bursa,40.19,29.06,0.82
+SUP018,Istanbul Bosphorus Metal,Turkey,TUR,Istanbul,41.01,28.98,0.9
+SUP019,Monterrey Norte Harness,Mexico,MEX,Monterrey,25.69,-100.32,0.94
+SUP020,Stuttgart Neckar Steckverbinder,Germany,DEU,Stuttgart,48.78,9.18,0.78
+SUP021,Nuremberg Franken Sensorik,Germany,DEU,Nuremberg,49.45,11.08,0.94
+SUP022,Dresden Elbe Halbleiter,Germany,DEU,Dresden,51.05,13.74,0.92
+SUP023,Ostrava Silesian Steel Works,Czechia,CZE,Ostrava,49.82,18.26,0.85
+SUP024,Brno Moravia Plastics,Czechia,CZE,Brno,49.2,16.61,0.81
+SUP025,Plzen Bohemia Harness,Czechia,CZE,Plzen,49.74,13.38,0.97
+SUP026,Milan Lombardia Polimeri,Italy,ITA,Milan,45.46,9.19,0.85
+SUP027,Bologna Emilia Precision,Italy,ITA,Bologna,44.49,11.34,0.8
+SUP028,Poznan Wielkopolska Packaging,Poland,POL,Poznan,52.41,16.93,0.8
+SUP029,Lodz Central Cable,Poland,POL,Lodz,51.76,19.46,0.95
+SUP030,Wroclaw Odra Electronics,Poland,POL,Wroclaw,51.11,17.03,0.9
